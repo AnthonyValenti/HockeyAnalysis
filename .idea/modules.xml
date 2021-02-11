@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HockeyAnalysis.iml" filepath="$PROJECT_DIR$/.idea/HockeyAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpaceInvaderV3/.idea/SpaceInvaderV2.iml" filepath="$PROJECT_DIR$/../SpaceInvaderV3/.idea/SpaceInvaderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StockScreenerV1/.idea/StockScreenerV1.iml" filepath="$PROJECT_DIR$/../StockScreenerV1/.idea/StockScreenerV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SupremeBot/.idea/SupremeBot.iml" filepath="$PROJECT_DIR$/../SupremeBot/.idea/SupremeBot.iml" />
+    </modules>
+  </component>
+</project>
